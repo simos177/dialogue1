@@ -1,0 +1,207 @@
+
+
+body{
+	background: #ffff;
+    font-size:12px; 
+    font-family: Futura, sans-serif;
+    color: #0000;}
+/*
+.topbox{
+    background-color:#ffff;
+    height: 40px;
+    width: 100%;
+    font-kerning: auto;
+    margin: 0;
+    padding: 5px;
+    box-align: center;
+    
+}*/
+
+/*.header{
+	font-size:12px; 
+    font-family: Futura, sans-serif;
+    font-style: bold;
+    color: #000000;
+    background-color:#ffff;
+    height: 40px;
+    width: 100%;
+    font-kerning: auto;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 5px;
+    box-align: center;
+    position: fixed;
+    }*/
+
+/*h3{
+    display: inline-block;
+    width: 20%;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: pink;
+    margin-bottom: 50px;
+    color: black;
+    left: 0;
+
+    }*/
+
+.cadybox{
+    font-size: 16px;
+    color: #000000;
+    background-color: hotpink;
+    font-family: Futura, sans-serif;
+    text-align: center;
+    width: 25%;
+    height: 80px;
+    position: fixed;
+    left: 0px;
+    margin-bottom: 20px
+}
+
+.reginabox{
+    font-size: 16px;
+    color: #000000;
+    background-color: hotpink;
+    font-family: Futura, sans-serif;
+    text-align: center;
+    width: 25%;
+    height: 80px;
+    position: fixed;
+    margin-left: 24%;
+    margin-bottom: 20px
+}
+
+.karenbox{
+    font-size: 16px;
+    color: #000000;
+    background-color: hotpink;
+    font-family: Futura, sans-serif;
+    text-align: center;
+    width: 26%;
+    height: 80px;
+    position: fixed;
+    margin-left: 49%;
+    margin-bottom: 20px
+}
+
+.gretchenbox{
+    font-size: 16px;
+    color: #000000;
+    background-color: hotpink;
+    font-family: Futura, sans-serif;
+    text-align: center;
+    width: 26%;
+    height: 80px;
+    position: fixed;
+    margin-left: 74%;
+    margin-bottom: 20px
+}
+
+
+.box{
+    background-color: white;
+    width: 100%;
+    height: 80px;
+
+}
+
+/*.cadybox{
+    width: 24%;
+    height: 500px;
+    background-color: white;
+    position: fixed;
+}*/
+
+.cady{
+    font-size: 20px;
+    color: #000000;
+    font-family: Futura, sans-serif;
+    text-align: left;
+    width: 25%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    /*margin-top: 10px;*/
+}
+
+.regina{ 
+    font-size: 20px;
+    color: #000000;
+    font-family: Futura, sans-serif;
+    text-align: left;
+    padding-top: 5px;
+    padding-right: 5px;
+    margin-left: 25%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 25%;
+}
+
+
+.gretchen{
+    font-size: 20px;
+    color: #000000;
+    font-family: Futura, sans-serif;
+    text-align: left;
+    padding-top: 5px;
+    padding-right: 5px;
+    /*background-color:#f09bd3;*/
+    width: 25%;
+    margin-left: 75%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+.Karen{
+    font-size: 20px;
+    color: #000000;
+    font-family: Futura, sans-serif;
+    text-align: left;
+    padding-top: 5px;
+    padding-right: 5px;
+    height: 96px;
+    width: 25%;
+    margin-left: 50%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.text{
+    font-size: 20px;
+    color: hotpink;
+    font-family: Futura, sans-serif;
+    text-align: left;
+    width: 45%;
+    margin-left: 25%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+    /*margin-top: 10px;*/
+
+
+
+
+}
+
+
+
+/*.cadybox{
+    width: 25%;
+    height: 100px;
+    background-color: white;
+    color: white;
+    position: absolute;
+
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
